@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body * {
+  /* background-color: #abc7ab; Yahan apna pasandida color code dein */
+  /* color: #000000; Text color bhi set kar sakte hain */
+}
